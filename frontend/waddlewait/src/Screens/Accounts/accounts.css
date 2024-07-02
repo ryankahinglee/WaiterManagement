@@ -1,0 +1,84 @@
+.account-container {
+	width: 350px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	border: 1px solid #ccc;
+	border-radius: 5px;
+	box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); 
+	padding: 20px;
+}
+
+.account-screen {
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+	justify-content: center;
+	height: 100vh;
+}
+
+.input-login {
+	width: 100%;
+}
+
+.input-container {
+	margin: 10px 0;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+
+.input-role-container {
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin: 15px 0;
+}
+
+.input-role {
+	width: 150px;
+}
+
+.button {
+	width: 100px;
+}
+
+.button-container {
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	margin: 10px 0;
+}
+
+.login-help {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	margin: 10px 0 0 0;
+}
+
+.login-help-link-container {
+	border-radius: 5px;
+	padding: 0px 10px;
+}
+
+.login-help-link-container:hover {
+	background-color: rgba(255, 209, 123, 0.273)
+}
+
+.login-help-link-text {
+	text-decoration: underline;
+	color: blue;
+	cursor: pointer;
+}
+
+.create-options {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+}
+
+.input-register {
+	width: 90%;
+}

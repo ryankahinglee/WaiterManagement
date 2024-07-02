@@ -1,0 +1,42 @@
+.kitchen-orders-container {
+  display: flex;
+  flex: 1;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  width: 85vw;
+  height: 1000px;
+}
+
+.kitchen-header-bar {
+  display: flex;
+  flex: 1;
+  flex-direction: row;
+  justify-content: space-around;
+  background-color: rgb(228, 228, 228);
+  border: 1px solid #e0e0e0; 
+  box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.1);
+  margin-bottom: 5vh;
+}
+
+.order-card-contents {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 60%;
+}
+
+.order-card-container {
+  display: flex;
+  flex: 1;
+  flex-direction: row;
+  justify-content: space-around;
+  height: 60%;
+  flex-wrap: wrap;
+}
+
+.order-card {
+  margin-bottom: 20px;
+}
+
