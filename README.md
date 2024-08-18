@@ -1,4 +1,10 @@
-﻿# capstone-project-3900h11a_chunkypenguins
+### Waiting Management system
+
+Designed and created from February 2024 to May 2024 in a group of six.
+
+
+## Setup (How to use)
+
 
 # Frontend Setup
 
