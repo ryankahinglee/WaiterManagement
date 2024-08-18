@@ -1,4 +1,4 @@
-### Waiting Management system
+# Waiting Management system
 
 Designed and created from February 2024 to May 2024 in a group of six.
 
@@ -6,7 +6,7 @@ Designed and created from February 2024 to May 2024 in a group of six.
 ## Setup (How to use)
 
 
-# Frontend Setup
+### Frontend Setup
 
 Our frontend server relies on using npm and nodeJS
 
@@ -21,7 +21,7 @@ Tested node version: v16.17.1
 
 Installation manual: https://docs.npmjs.com/downloading-and-installing-node-js-and-npm
 
-# Backend Setup
+### Backend Setup
 
 Our backend server relies on python
 
